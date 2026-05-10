@@ -1,4 +1,4 @@
-# Ahmad Web Store
+# index.html
 
 This is my first HTML and CSS website project.
 
